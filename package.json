@@ -1,6 +1,10 @@
 {
   "name": "sesemailforward",
   "version": "1.0.0",
+  "engines": {
+    "node": ">= 8.11.3",
+    "npm": ">= 6.4.1"
+  },
   "description": "Amazon SES Email Forward to Your Inbox",
   "main": "index.js",
   "scripts": {
