@@ -19,5 +19,10 @@
   "bugs": {
     "url": "https://github.com/jeebak/SESEmailForward/issues"
   },
-  "homepage": "https://github.com/jeebak/SESEmailForward#readme"
+  "homepage": "https://github.com/jeebak/SESEmailForward#readme",
+  "devDependencies": {
+    "n": "^2.1.12",
+    "serverless": "^1.30.3",
+    "underscore-cli": "^0.2.19"
+  }
 }
