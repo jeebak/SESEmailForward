@@ -1,0 +1,19 @@
+{
+  "name": "sesemailforward",
+  "version": "1.0.0",
+  "description": "Amazon SES Email Forward to Your Inbox",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"why you got to do me like that?\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jeebak/SESEmailForward.git"
+  },
+  "author": "github@jeebak.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jeebak/SESEmailForward/issues"
+  },
+  "homepage": "https://github.com/jeebak/SESEmailForward#readme"
+}
